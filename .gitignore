@@ -1,0 +1,12 @@
+*.pyc
+.settings/
+.DS_Store
+*.tar.bz2
+.coverage
+htmlcov
+.project
+.pydevproject
+tmp/
+./static/
+.idea
+db.sqlite3
